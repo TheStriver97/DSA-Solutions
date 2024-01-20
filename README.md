@@ -3,7 +3,7 @@
 This repository contains my solutions to the A2Z DSA sheet by [Striver](https://www.youtube.com/@striver_79). I have implemented these solutions in C and welcome any feedback or suggestions.
 
 ## Table of Contents
-- [Patters](#Patterns)
+- [Patterns](https://github.com/TheStriver97/DSA-Solutions/tree/main/patterns)
   
 ## Introduction
 
