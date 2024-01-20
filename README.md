@@ -7,7 +7,7 @@ This repository contains my solutions to the A2Z DSA sheet by [Striver](https://
   
 ## Introduction
 
-This repository serves as a collection of my solutions to the A2Z DSA sheet provided by Striver. The purpose is to help fellow learners understand and implement these data structures and algorithms in C.
+This repository serves as a collection of my solutions to the A2Z DSA sheet provided by Striver. The purpose is to understand and implement these data structures and algorithms in C.
 
 ## Folder Structure
 
