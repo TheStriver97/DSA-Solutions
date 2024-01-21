@@ -4,7 +4,7 @@ int main(){
     int N = 5;
     //the outer for loop with variable i controls the number of columns
     for (int i=0; i<N; i++){
-        //the inner for loop with variable j controls the number of "*"s in each row, which increases by 1 in every iteration.
+        //the inner for loop with variable j controls the number of "*"s in each row, which decreases by 1 in every iteration.
         for(int j=N; j>i; j--){
             //printing the "*"s for showing an output on console
             printf("*");
