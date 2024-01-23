@@ -26,7 +26,7 @@ void pattern7( int n){
 
 int main(){
     //Initializing the variable.
-    int n =  5;
+    int n =  50;
     //calling the function with the variable n
     pattern7(n);
     
