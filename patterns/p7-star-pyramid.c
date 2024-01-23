@@ -13,11 +13,6 @@ void pattern7( int n){
         {
             printf("*");
         }
-        //This loop will print spaces after the stars in each row.
-        for(int j = 0; j<n-i-1;j++)
-        {
-            printf(" ");
-        }
         //As one iteration of the outer for loop completes, the \n will shift to a new line.
         printf("\n");
         
