@@ -18,10 +18,10 @@ void pattern7( int n){
         
     }
 }
-void pattern8(int N)
+void pattern8(int n)
 {
     // This is the outer loop which will loop for the rows.
-    for (int i = 0; i < N; i++)
+    for (int i = 0; i < n; i++)
     {
         // For printing the spaces before stars in each row
         for (int j =0; j<i; j++)
@@ -30,7 +30,7 @@ void pattern8(int N)
         }
        
         // For printing the stars in each row
-        for(int j=0;j< 2*N -(2*i +1);j++){
+        for(int j=0;j< 2*n -(2*i +1);j++){
             
             printf("*");
         }
